@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|c:\\users\\leven\\desktop\\szabowcf_uzenetprojekt\\wcf\\szabo_uzenetwcf\\szabo_uzenetwcf\\services\\uzenetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|solutionrelative:szabo_uzenetwcf\\services\\uzenetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|c:\\users\\leven\\desktop\\szabowcf_uzenetprojekt\\wcf\\szabo_uzenetwcf\\szabo_uzenetwcf\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|solutionrelative:szabo_uzenetwcf\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|c:\\users\\leven\\desktop\\szabowcf_uzenetprojekt\\wcf\\szabo_uzenetwcf\\szabo_uzenetwcf\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|solutionrelative:szabo_uzenetwcf\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|c:\\users\\leven\\desktop\\szabowcf_uzenetprojekt\\wcf\\szabo_uzenetwcf\\szabo_uzenetwcf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|solutionrelative:szabo_uzenetwcf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetwcf\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|solutionrelative:szabo_uzenetwcf\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetwcf\\models\\tablazat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|solutionrelative:szabo_uzenetwcf\\models\\tablazat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetwcf\\models\\uzenet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610D2C9D-F44B-4B0C-8980-6A1461CF4C3F}|szabo_uzenetWCF\\szabo_uzenetWCF.csproj|solutionrelative:szabo_uzenetwcf\\models\\uzenet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Web.config",
+              "RelativeDocumentMoniker": "szabo_uzenetWCF\\Web.config",
+              "ToolTip": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Web.config",
+              "RelativeToolTip": "szabo_uzenetWCF\\Web.config",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-04T15:40:10.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\IService1.cs",
+              "RelativeDocumentMoniker": "szabo_uzenetWCF\\IService1.cs",
+              "ToolTip": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\IService1.cs",
+              "RelativeToolTip": "szabo_uzenetWCF\\IService1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:29:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UzenetService.cs",
+              "DocumentMoniker": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Services\\UzenetService.cs",
+              "RelativeDocumentMoniker": "szabo_uzenetWCF\\Services\\UzenetService.cs",
+              "ToolTip": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Services\\UzenetService.cs",
+              "RelativeToolTip": "szabo_uzenetWCF\\Services\\UzenetService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:20:14.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Uzenet.cs",
+              "DocumentMoniker": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Models\\Uzenet.cs",
+              "RelativeDocumentMoniker": "szabo_uzenetWCF\\Models\\Uzenet.cs",
+              "ToolTip": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Models\\Uzenet.cs",
+              "RelativeToolTip": "szabo_uzenetWCF\\Models\\Uzenet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:16:20.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tablazat.cs",
+              "DocumentMoniker": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Models\\Tablazat.cs",
+              "RelativeDocumentMoniker": "szabo_uzenetWCF\\Models\\Tablazat.cs",
+              "ToolTip": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Models\\Tablazat.cs",
+              "RelativeToolTip": "szabo_uzenetWCF\\Models\\Tablazat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:15:05.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Interfaces\\ICRUD.cs",
+              "RelativeDocumentMoniker": "szabo_uzenetWCF\\Interfaces\\ICRUD.cs",
+              "ToolTip": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Interfaces\\ICRUD.cs",
+              "RelativeToolTip": "szabo_uzenetWCF\\Interfaces\\ICRUD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:11:56.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "szabo_uzenetWCF\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\leven\\Desktop\\szaboWCF_UzenetProjekt\\WCF\\szabo_uzenetWCF\\szabo_uzenetWCF\\Service1.svc.cs",
+              "RelativeToolTip": "szabo_uzenetWCF\\Service1.svc.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:06:31.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
